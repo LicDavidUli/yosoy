@@ -50,7 +50,7 @@
 
 <header>
     <h1>David Uliambre</h1>
-    <p>Docente de Matemáticas | Apasionado por la Educación y las Matemáticas</p>
+    <p>Docente de Matemáticas | Tallerista OMAPA | Experiencia en Secundaria y Educación Superior</p>
 </header>
 
 <main>
