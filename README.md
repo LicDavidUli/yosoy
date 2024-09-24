@@ -49,7 +49,7 @@
 <body>
 
 <header>
-    <h1>David Uliambre</h1>
+    <p>David Uliambre</p>
     <p>Docente de Matemáticas | Tallerista OMAPA | Experiencia en Secundaria y Educación Superior</p>
 </header>
 
