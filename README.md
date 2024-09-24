@@ -79,7 +79,7 @@
     <section class="section">
         <h2>Contacto</h2>
         <p>Correo: <a href="mailto:licdaviduliambre@gmail.com">licdaviduliambre@gmail.com</a></p>
-        <p>Teléfono: +595 123 456 789</p>
+        <p>Teléfono: solicitar en el correo proporcionado</p>
     </section>
 </main>
 
