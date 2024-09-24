@@ -62,9 +62,9 @@
     <section class="section">
         <h2>Formación Académica</h2>
         <ul>
-            <li>Licenciado en Educación Matemática</li>
-            <li>Especialización en Didáctica</li>
-            <li>Técnico en Educación Inclusiva</li>
+            <li>Licenciado en Educación Matemática - INAES (2019)</li>
+            <li>Especialización en Didáctica - NIHON GAKKO (2021)</li>
+            <li>Técnico en Educación Inclusiva - ISEHF (2024)</li>
             <li>Maestría en Educación - FILO-UNA (en curso)</li>
             <li>Licenciatura en Matemática Pura - FACEN-UNA (en curso)</li>
             <li>Especialización en Educación de las Matemáticas (en proceso de cierre)</li>
