@@ -50,7 +50,7 @@
 
 <header>
     <h1>David Uliambre</h1>
-    <p>Docente de Matemáticas | Apasionado por la Educación y el Fútbol</p>
+    <p>Docente de Matemáticas | Apasionado por la Educación y las Matemáticas</p>
 </header>
 
 <main>
