@@ -26,7 +26,7 @@
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         h1, h2 {
-            color: #008080;
+            color:  white;;
         }
         .section {
             margin-bottom: 20px;
