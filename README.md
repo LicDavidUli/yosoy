@@ -49,7 +49,7 @@
 <body>
 
 <header>
-    <h>ARCADIO DAVID ULIAMBRE SERVÍN</h>
+    <h1>ARCADIO DAVID ULIAMBRE SERVÍN</h1>
     <p>Docente de Matemáticas | Tallerista OMAPA | Experiencia en Secundaria y Educación Superior</p>
 </header>
 
