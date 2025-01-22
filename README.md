@@ -62,12 +62,12 @@
     <section class="section">
         <h2>Formación Académica</h2>
         <ul>
-            <li>Licenciado en Educación Matemática - INAES (2019)</li>
-            <li>Especialización en Didáctica - NIHON GAKKO (2021)</li>
-            <li>Técnico en Educación Inclusiva - ISEHF (2024)</li>
-            <li>Maestría en Educación - FILO-UNA (en curso)</li>
-            <li>Licenciatura en Matemática Pura - FACEN-UNA (en curso)</li>
-            <li>Especialización en Educación de las Matemáticas (2024)</li>
+            <li>Licenciado en Educación Matemática - Instituto Nacional de Educación Superior - INAES (2019)</li>
+            <li>Especialización en Didáctica Universitaria - NIHON GAKKO (2021)</li>
+            <li>Técnico en Educación Inclusiva - ISEHF - Universidad Jesuita del Paraguay (2024)</li>
+            <li>Maestría en Educación - FFUNA -Universidad Nacional de Asunción (en curso)</li>
+            <li>Licenciatura en Matemática Pura - FACEN- Universidad Nacional de Asunción (en curso)</li>
+            <li>Especialización en Educación de las Matemáticas - Universidad Nacional de Itapúa (2024)</li>
         </ul>
     </section>
 
