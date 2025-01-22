@@ -67,7 +67,7 @@
             <li>Técnico en Educación Inclusiva - ISEHF (2024)</li>
             <li>Maestría en Educación - FILO-UNA (en curso)</li>
             <li>Licenciatura en Matemática Pura - FACEN-UNA (en curso)</li>
-            <li>Especialización en Educación de las Matemáticas (en proceso de cierre)</li>
+            <li>Especialización en Educación de las Matemáticas (2024)</li>
         </ul>
     </section>
 
@@ -79,7 +79,7 @@
     <section class="section">
         <h2>Contacto</h2>
         <p>Correo: <a href="mailto:licdaviduliambre@gmail.com">licdaviduliambre@gmail.com</a></p>
-        <p>Teléfono: solicitar en el correo proporcionado</p>
+        <p>Teléfono: 0982 311 955</p>
     </section>
 </main>
 
