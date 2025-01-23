@@ -79,7 +79,7 @@
     <section class="section">
         <h2>Contacto</h2>
         <p>Correo: <a href="mailto:licdaviduliambre@gmail.com">licdaviduliambre@gmail.com</a></p>
-        <p>Teléfono: 0982 311 955</p>
+        <p>Teléfono: Solicitar al correo proporcionado arriba</p>
     </section>
 </main>
 
